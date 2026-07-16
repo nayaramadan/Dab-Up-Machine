@@ -24,3 +24,6 @@ BOM
 | 15 | Jumper wires (M-M, M-F) | assorted | Rails, signal lines, grounds |
 | 16 | USB-C cable | 1 | XIAO RP2040 to laptop |
 | 17 | USB cable (for CYD) | 1 | CYD to laptop — check connector type (often micro-USB or USB-C) |
+
+
+
