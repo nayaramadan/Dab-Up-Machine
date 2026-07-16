@@ -3,6 +3,8 @@
 
 The Dapper Tracker is a 1DOF Robotic Arm with an IMU inside the palm of the hand which detects how hard someone gives it a handshake. A score is given from 0-100. A bad score means too hard or too soft of a handshake, aim for the right pressure. 
 
+Video Link: https://youtu.be/FUF2wIGc6jc?si=2GxfS9oOQr4AndEF
+
 BOM
 # Bill of Materials
 
