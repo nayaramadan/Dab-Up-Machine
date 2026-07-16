@@ -26,4 +26,5 @@ BOM
 | 17 | USB cable (for CYD) | 1 | CYD to laptop — check connector type (often micro-USB or USB-C) |
 
 
+<img src="IMG_1695.jpg" alt="Project Screenshot" width="500">
 
