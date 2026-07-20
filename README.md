@@ -1,7 +1,10 @@
 # Dapper Tracker - How Well Can You Offer a ***Low Five?***
 > Made For Hack Club's Outpost Hackathon and presented at Open Sauce 2026
 
-The Dapper Tracker is a 1DOF Robotic Arm with an IMU inside the palm of the hand which detects how hard someone gives it a handshake. A score is given from 0-100. A bad score means too hard or too soft of a handshake, aim for the right pressure. 
+The Dapper Tracker is a 1DOF Robotic Arm with an IMU inside the palm of the hand which detects how hard someone gives it a handshake. Upon handshake initiation, the IMU records grip-associated force and motion data across the duration of contact. This data is processed and mapped to a normalized score from 0 to 100.
+
+<img src="IMG_1695.jpg" alt="Project Screenshot" width="500">
+
 
 Video Link: https://youtu.be/FUF2wIGc6jc?si=2GxfS9oOQr4AndEF
 
@@ -27,6 +30,4 @@ BOM
 | 16 | USB-C cable | 1 | XIAO RP2040 to laptop |
 | 17 | USB cable (for CYD) | 1 | CYD to laptop — check connector type (often micro-USB or USB-C) |
 
-
-<img src="IMG_1695.jpg" alt="Project Screenshot" width="500">
 
